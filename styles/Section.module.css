@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(1, 1, 56);
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+.box1{
+    background-color: rgb(1, 1, 56);
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    gap: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
